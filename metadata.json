@@ -1,0 +1,8 @@
+{
+  "name": "User Account Image",
+  "description": "Show current user account image at the panel",
+  "uuid": "user-account-image@limeira.me",
+  "shell-version": [
+    "3.34"
+  ]
+}
